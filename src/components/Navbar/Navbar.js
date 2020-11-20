@@ -30,7 +30,7 @@ const Navbar = () => {
                     <li className="nav-item">
                         <a className="nav-link mr-5" href="#">Our Team</a>
                     </li>
-                    <button style ={{backgroundColor: '#1BD5BE' , color: "white" , border: 'none' , borderRadius: '20px 0px 20px 0px' , padding: '10px 40px 10px 40px' , fontWeight: 800}} className = 'btn btn-primary'>Login</button>
+                    <button style ={{backgroundColor: '#1BD5BE' , color: "white" , border: 'none' , borderRadius: '20px 0px 20px 0px' , padding: '10px 40px 10px 40px' , fontWeight: 800 , backgroundImage: 'linear-gradient(to right, #1ddbb6, #07adec)'}} className = 'btn btn-primary'>Login</button>
                 </ul>
             </div>
         </nav>
